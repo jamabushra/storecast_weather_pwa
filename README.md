@@ -1,4 +1,4 @@
-### [Live Site](### [Live Site](https://storecast-weather-pwa-73f8f2.netlify.app))
+### [Live Site](https://storecast-weather-pwa-73f8f2.netlify.app)
 
 
 ## Getting Started with Create React App
