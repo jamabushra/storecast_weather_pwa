@@ -1,4 +1,4 @@
-# Storecast Weather Progressive Webb App
+# Storecast Weather - Progressive Webb App
 
 ### [Live Site](https://storecast-weather-pwa-73f8f2.netlify.app)
 
